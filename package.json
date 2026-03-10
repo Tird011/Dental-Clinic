@@ -1,0 +1,21 @@
+{
+  "name": "dental-clinic-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tird011/Dental-Clinic.git"
+  },
+  "keywords": [],
+  "author": "Tird011",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tird011/Dental-Clinic/issues"
+  },
+  "homepage": "https://github.com/Tird011/Dental-Clinic#readme"
+}
